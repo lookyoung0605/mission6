@@ -1,0 +1,11 @@
+body {
+  margin: 0px;
+}
+
+.app-container {
+  background-color: #22254b;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+}
